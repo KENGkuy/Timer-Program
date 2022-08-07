@@ -1,0 +1,34 @@
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\bin\Debug\net6.0-windows\โปรแกรมจับเวลา.exe
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\bin\Debug\net6.0-windows\โปรแกรมจับเวลา.deps.json
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\bin\Debug\net6.0-windows\โปรแกรมจับเวลา.runtimeconfig.json
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\bin\Debug\net6.0-windows\โปรแกรมจับเวลา.dll
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\bin\Debug\net6.0-windows\โปรแกรมจับเวลา.pdb
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.vbproj.AssemblyReference.cache
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.Form1.resources
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.vbproj.GenerateResource.cache
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.GeneratedMSBuildEditorConfig.editorconfig
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.AssemblyInfoInputs.cache
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.AssemblyInfo.vb
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.vbproj.CoreCompileInputs.cache
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.dll
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\refint\โปรแกรมจับเวลา.dll
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.pdb
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.genruntimeconfig.cache
+D:\ป.ตรี\VB ม่วง\โปรแกรมจับเวลา\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\ref\โปรแกรมจับเวลา.dll
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\bin\Debug\net6.0-windows\โปรแกรมจับเวลา.exe
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\bin\Debug\net6.0-windows\โปรแกรมจับเวลา.deps.json
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\bin\Debug\net6.0-windows\โปรแกรมจับเวลา.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\bin\Debug\net6.0-windows\โปรแกรมจับเวลา.dll
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\bin\Debug\net6.0-windows\โปรแกรมจับเวลา.pdb
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.Form1.resources
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.vbproj.GenerateResource.cache
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.AssemblyInfo.vb
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.dll
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\refint\โปรแกรมจับเวลา.dll
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.pdb
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\โปรแกรมจับเวลา.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GitHub\Timer-Program\โปรแกรมจับเวลา\obj\Debug\net6.0-windows\ref\โปรแกรมจับเวลา.dll
