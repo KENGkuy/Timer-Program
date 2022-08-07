@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\Timer-Program\\โปรแกรมจับเวลา\\โปรแกรมจับเวลา.vbproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\Timer-Program\\โปรแกรมจับเวลา\\โปรแกรมจับเวลา.vbproj",
       "projectName": "โปรแกรมจับเวลา",
-      "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\Timer-Program\\โปรแกรมจับเวลา\\โปรแกรมจับเวลา.vbproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\Timer-Program\\โปรแกรมจับเวลา\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\Timer-Program\\โปรแกรมจับเวลา\\โปรแกรมจับเวลา.vbproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\Timer-Program\\โปรแกรมจับเวลา\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
