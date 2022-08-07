@@ -36,6 +36,7 @@ Partial Class Form1
         '
         'Timer1
         '
+        Me.Timer1.Interval = 1000
         '
         'Button1
         '
